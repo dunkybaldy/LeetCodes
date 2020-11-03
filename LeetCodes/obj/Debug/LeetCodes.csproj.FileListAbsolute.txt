@@ -1,0 +1,14 @@
+C:\Projects\LeetCode\C#\LeetCodes\LeetCodes\bin\Debug\LeetCodes.exe.config
+C:\Projects\LeetCode\C#\LeetCodes\LeetCodes\bin\Debug\LeetCodes.exe
+C:\Projects\LeetCode\C#\LeetCodes\LeetCodes\bin\Debug\LeetCodes.pdb
+C:\Projects\LeetCode\C#\LeetCodes\LeetCodes\obj\Debug\LeetCodes.csprojAssemblyReference.cache
+C:\Projects\LeetCode\C#\LeetCodes\LeetCodes\obj\Debug\LeetCodes.csproj.CoreCompileInputs.cache
+C:\Projects\LeetCode\C#\LeetCodes\LeetCodes\obj\Debug\LeetCodes.exe
+C:\Projects\LeetCode\C#\LeetCodes\LeetCodes\obj\Debug\LeetCodes.pdb
+C:\Projects\CodingChallenges\C#\LeetCodes\LeetCodes\bin\Debug\LeetCodes.exe.config
+C:\Projects\CodingChallenges\C#\LeetCodes\LeetCodes\bin\Debug\LeetCodes.exe
+C:\Projects\CodingChallenges\C#\LeetCodes\LeetCodes\bin\Debug\LeetCodes.pdb
+C:\Projects\CodingChallenges\C#\LeetCodes\LeetCodes\obj\Debug\LeetCodes.csprojAssemblyReference.cache
+C:\Projects\CodingChallenges\C#\LeetCodes\LeetCodes\obj\Debug\LeetCodes.csproj.CoreCompileInputs.cache
+C:\Projects\CodingChallenges\C#\LeetCodes\LeetCodes\obj\Debug\LeetCodes.exe
+C:\Projects\CodingChallenges\C#\LeetCodes\LeetCodes\obj\Debug\LeetCodes.pdb
